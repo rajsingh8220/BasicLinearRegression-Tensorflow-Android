@@ -6,4 +6,4 @@ Tensor Flow - Linear Regression
 
 
 - [Linear Regression - Tensorflow](Linear%20Regression%20Model.ipynb)
-- [Android app](Linear_Regression_Android)
+- [Android app using the Linear Regression to predict](Linear_Regression_Android)
