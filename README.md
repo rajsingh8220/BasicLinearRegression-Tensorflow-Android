@@ -5,4 +5,4 @@ Tensor Flow - Linear Regression
 ### Android app to predict result using pre-trained linear regression.
 
 
-- [sdfsdf](./Linear Regression Model.ipynb)
+- [sdfsdf](Linear%20Regression%20Model.ipynb)
